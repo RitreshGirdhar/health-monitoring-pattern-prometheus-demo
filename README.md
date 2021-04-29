@@ -1,4 +1,4 @@
-# Health monitoring pattern -- prometheus
+# Health monitoring pattern 
 
 
 Happy Learning 
